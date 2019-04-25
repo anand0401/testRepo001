@@ -4,7 +4,9 @@
 			<pages>
 				<Page id="page" title="{i18n>title}">
 					<content>
-						<Text text="Title"/>
+						<Text text="Title1"/>
+						<Text text="Feature1_001"/>
+						<Text text="Feature1_002"/>
 					</content>
 				</Page>
 			</pages>
