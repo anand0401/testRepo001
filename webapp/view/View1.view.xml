@@ -4,6 +4,7 @@
 			<pages>
 				<Page id="page" title="{i18n>title}">
 					<content>
+						<Text text="master Mods001"/>
 						<Text text="Title1"/>
 						<Text text="Feature1_001"/>
 						<Text text="Feature1_002"/>
@@ -12,6 +13,7 @@
 						<Text text="Feature_3_001"/>
 						<Text text="Feature _3_002"/>
 						<Text text="Feature 4 done"/>
+						<Text text="master Mods002"/>
 					</content>
 				</Page>
 			</pages>
